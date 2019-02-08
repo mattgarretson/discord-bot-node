@@ -1,0 +1,11 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.7.1",
+    "ms": "^2.1.1",
+    "mysql": "^2.16.0"
+  }
+}

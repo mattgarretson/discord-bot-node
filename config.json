@@ -1,0 +1,8 @@
+{
+  "prefix": "!!",
+  "token": "ones_token_would_go_here",
+  "database": "discord",
+  "dbHost": "localhost",
+  "dbUser": "user",
+  "dbPassword": "GoodPassword"
+}
